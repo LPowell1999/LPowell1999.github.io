@@ -1,1 +1,7 @@
-### The link to my website is liampowell.dev
+# Website: liampowell.dev
+
+### Links To My Social Media:
+
+:bird: [Twitter](https://twitter.com/DevLiamPowell)  
+:books: [LinkedIn](https://www.linkedin.com/in/liam-powell1/)
+
